@@ -130,7 +130,7 @@ ecommerce-data-cleaning-power-query/
 ├── ecommerce_data_cleaning.xlsx
 ├── data/raw/ecommerce_retail_transactions_raw.csv
 ├── powerquery/        one .m file per query
-└── images/            screenshots (profile, applied steps, checks, dashboard, forecast)
+└── images/            screenshots (applied steps, dashboard)
 ```
 
 ## Tools
