@@ -2,7 +2,7 @@
 
 A refreshable Power Query pipeline that turns a messy e-commerce export into a sales report managers can trust (synthetic data).
 
-![Dashboard](images/02_dashboard.png)
+![Dashboard](images/03_dashboard.png)
 
 ## Project brief
 
